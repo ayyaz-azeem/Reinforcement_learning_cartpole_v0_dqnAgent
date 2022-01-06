@@ -1,5 +1,4 @@
 # Reinforcement_learning_cartpole_v0_dqnAgent
-Reinforcement Learning: cartpole v0 with dqn agent
 
 NEUROG - ASSESSMENT TASK.pdf contains the original question
 
